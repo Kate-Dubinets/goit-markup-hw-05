@@ -549,12 +549,9 @@ margin-bottom: 16px;
 
 .form-footer{
     display: flex; 
+    gap: 24px;
 }
 
-
-.label-footer{
-    
-}
 
 .input-mail{
     background:#2e2f42;
@@ -587,6 +584,8 @@ margin-bottom: 16px;
     border-radius: 4px;
     display: flex;
     gap: 16px;
+    justify-content: center; 
+    align-items: center;
     padding: 8px 24px;
     min-width: 165px;
     height: 40px;
@@ -602,7 +601,7 @@ margin-bottom: 16px;
 }
 
 .svg-icon-footer{
-
+    margin-left: 16px; 
 }
 
 .div-button{

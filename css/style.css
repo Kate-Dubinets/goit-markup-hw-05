@@ -626,8 +626,6 @@ margin-bottom: 16px;
     opacity: 0;
     visibility:hidden ;
     transition: opacity 250ms cubic-bezier(0.4, 0, 0.2, 1), visibility 250ms cubic-bezier(0.4, 0, 0.2, 1);
-    padding: 72px 24px 24px 24px; 
-
 }
 
 .backdrop.is-open{
@@ -648,6 +646,7 @@ margin-bottom: 16px;
     background: #fcfcfc;
     padding: 24px;
     transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
+    padding: 72px 24px 24px 24px; 
 }
 
 

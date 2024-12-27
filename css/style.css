@@ -775,7 +775,7 @@ color: rgba(46, 47, 66, 0.4);
 .form-comment:focus{
     border: 1px solid #4d5ae5
 }
-.input-checkbox:checked+ .label-checkbox .castome-chackbox {
+.input-checkbox:checked+.label-checkbox .castome-chackbox{
     border: transparent;
     background-color:#404bbf;;
     fill: #F4F4FD;
@@ -808,7 +808,6 @@ text-decoration-skip-ink: none;
 }
 
 .label-checkbox{
-    display: flex;
     justify-content: center;
     align-items: center;
     font-family: "Roboto", sans-serif;
